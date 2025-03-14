@@ -45,8 +45,8 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duong&show_icons=true&locale=en&layout=compact" alt="duong" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duong&show_icons=true&locale=en&layout=compact" alt="duong" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duong&show_icons=true&locale=en" alt="duong" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duong&" alt="duong" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duong&" alt="duong" /></p>-->
